@@ -39,10 +39,11 @@ Reducer:
 
 Results Graph:
 
-
+![results](https://cloud.githubusercontent.com/assets/25209715/25059691/a7bfb830-2150-11e7-972d-c0d4c0250be9.PNG)
 
 
 
 References:
 Course Slides,
 https://blog.matthewrathbone.com/2013/11/17/python-map-reduce-on-hadoop-a-beginners-tutorial.html
+https://www.youtube.com/watch?v=nvPOUdz5PL4
