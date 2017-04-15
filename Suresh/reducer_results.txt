@@ -1,0 +1,75 @@
+Total hattype for each age:
+38  Aura		19
+50  No Aura		152
+40  No Aura		63
+27  No Aura		21
+42  No Aura		31
+51  No Aura		29
+24  Aura		16
+36  Mixed		17
+49  No Aura		113
+50  Aura		51
+30  Aura		121
+58  Mixed		18
+54  No Aura		88
+49  Aura		24
+40  Aura		13
+28  Mixed		43
+33  No Aura		113
+47  No Aura		18
+45  No Aura		153
+29  No Aura		33
+48  Aura		24
+53  Mixed		54
+46  Aura		189
+62  Aura		51
+53  Aura		55
+57  Mixed		55
+43  Aura		91
+23  No Aura		12
+47  Aura		38
+56  No Aura		24
+36  Aura		96
+28  Aura		70
+52  Aura		72
+41  No Aura		41
+24  No Aura		71
+39  Aura		46
+55  No Aura		51
+53  No Aura		63
+27  Aura		28
+32  No Aura		96
+18  Aura		16
+20  Mixed		28
+60  No Aura		83
+33  Mixed		99
+18  Mixed		26
+63  Aura		78
+43  Mixed		35
+48  No Aura		63
+55  Aura		12
+45  Aura		36
+43  No Aura		46
+21  Aura		97
+49  Mixed		48
+35  Aura		140
+37  Mixed		34
+46  No Aura		123
+18  No Aura		33
+56  Aura		34
+59  Aura		20
+36  No Aura		17
+33  Aura		62
+62  No Aura		32
+42  Aura		56
+51  Aura		43
+29  Aura		51
+28  No Aura		34
+41  Aura		20
+32  Aura		18
+26  Aura		23
+35  No Aura		40
+44  No Aura		104
+34  No Aura		80
+66  No Aura		47
+52  No Aura		111

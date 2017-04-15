@@ -1,0 +1,4152 @@
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Aura	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  Mixed	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+18  No Aura	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+20  Mixed	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+21  Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+23  No Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+24  No Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+26  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+27  No Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Aura	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  Mixed	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+28  No Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+29  No Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+30  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+32  No Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Aura	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  Mixed	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+33  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+34  No Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+35  No Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Aura	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  Mixed	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+36  No Aura	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+37  Mixed	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+38  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+39  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+40  No Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+41  No Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+42  No Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Aura	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  Mixed	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+43  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+44  No Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+45  No Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+46  No Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+47  No Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+48  No Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Aura	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  Mixed	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+49  No Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+50  No Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+51  No Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+52  No Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Aura	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  Mixed	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+53  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+54  No Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+55  No Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+56  No Aura	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+57  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+58  Mixed	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+59  Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+60  No Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+62  No Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+63  Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
+66  No Aura	1
