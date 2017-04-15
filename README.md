@@ -27,6 +27,18 @@ Mapper, Reducer for data set:
 
 Run commands in command prompt( open command prompt as administratorn by selecting the sourrce folder contaning the files) Mapper: python Smapper.py Reducer: python Sreducer.py
 
+Mapper:
+
+
+Reducer:
+
+![reducer](https://cloud.githubusercontent.com/assets/25209715/25059638/e70fed9e-214f-11e7-9e1f-f2cb8160b8c5.PNG)
+
+
+Results Graph:
+
+
+
 References:
 Course Slides,
 https://blog.matthewrathbone.com/2013/11/17/python-map-reduce-on-hadoop-a-beginners-tutorial.html
