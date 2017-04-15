@@ -29,6 +29,8 @@ Run commands in command prompt( open command prompt as administratorn by selecti
 
 Mapper:
 
+![mapper](https://cloud.githubusercontent.com/assets/25209715/25059669/6cb8a56c-2150-11e7-8ea1-065542ebc3d9.PNG)
+
 
 Reducer:
 
@@ -36,6 +38,8 @@ Reducer:
 
 
 Results Graph:
+
+
 
 
 
